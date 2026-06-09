@@ -10,12 +10,12 @@ Read `05_revision/output/revised_draft.md` for the revised report.
 
 | File | Purpose |
 |------|---------|
-| `06_final_polish/references/AI_DEFENSE.md` | Writing style requirements — read and apply these to rewrite the report so it sounds natural and human-written |
-| `shared/references/TEMPLATE.md` | Document template — if this file exists and has content, fit the final report into this template's structure |
+| `06_final_polish/references/AI_DEFENSE.md` | (Optional) Writing style requirements — if this file exists, read and apply these to rewrite the report so it sounds natural and human-written |
+| `shared/references/TEMPLATE.md` | (Optional) Document template — if this file exists and has content, fit the final report into this template's structure |
 
 ## Process
 
-1. Read `06_final_polish/references/AI_DEFENSE.md` and apply all of its requirements to rewrite the report.
+1. Check if `06_final_polish/references/AI_DEFENSE.md` exists. If it does, read it and apply all of its requirements to rewrite the report. If it does not exist, skip this step and continue.
 2. Check if `shared/references/TEMPLATE.md` exists and has content. If it does, restructure the report to fit within the template's format and sections.
 3. Format per the required style guide.
 4. Ensure all in-text citations remain intact and correctly placed.
